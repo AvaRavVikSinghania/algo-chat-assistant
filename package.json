@@ -1,0 +1,27 @@
+{
+  "name": "algo-chat-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvaRavVikSinghania/algo-chat-assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvaRavVikSinghania/algo-chat-assistant/issues"
+  },
+  "homepage": "https://github.com/AvaRavVikSinghania/algo-chat-assistant#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
